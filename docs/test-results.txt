@@ -1,0 +1,16 @@
+test_bad_input_and_plain_text (test_bot.BotTests.test_bad_input_and_plain_text) ... ok
+test_commands (test_bot.BotTests.test_commands) ... ok
+test_csv_upload (test_bot.BotTests.test_csv_upload) ... ok
+test_keyboard_shortcut (test_bot.BotTests.test_keyboard_shortcut) ... ok
+test_atomic_csv_import (test_storage.StorageTests.test_atomic_csv_import) ... ok
+test_feedback_and_statistics (test_storage.StorageTests.test_feedback_and_statistics) ... ok
+test_invalid_csv (test_storage.StorageTests.test_invalid_csv) ... ok
+test_ownership_and_persistence (test_storage.StorageTests.test_ownership_and_persistence) ... ok
+test_priority_and_search (test_storage.StorageTests.test_priority_and_search) ... ok
+test_reminder_survives_restart (test_storage.StorageTests.test_reminder_survives_restart) ... ok
+test_validation (test_storage.StorageTests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.123s
+
+OK
